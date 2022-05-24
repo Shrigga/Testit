@@ -1,0 +1,6 @@
+C:\Users\student\Documents\Шакиров Тайкиев 222 АУЕ BSC\Biblia\Biblia\bin\Debug\Biblia.exe.config
+C:\Users\student\Documents\Шакиров Тайкиев 222 АУЕ BSC\Biblia\Biblia\bin\Debug\Biblia.exe
+C:\Users\student\Documents\Шакиров Тайкиев 222 АУЕ BSC\Biblia\Biblia\bin\Debug\Biblia.pdb
+C:\Users\student\Documents\Шакиров Тайкиев 222 АУЕ BSC\Biblia\Biblia\obj\Debug\Biblia.csprojAssemblyReference.cache
+C:\Users\student\Documents\Шакиров Тайкиев 222 АУЕ BSC\Biblia\Biblia\obj\Debug\Biblia.exe
+C:\Users\student\Documents\Шакиров Тайкиев 222 АУЕ BSC\Biblia\Biblia\obj\Debug\Biblia.pdb
